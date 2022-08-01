@@ -1,5 +1,11 @@
-### Hey.
-Here's a bit about me
+<div>
+<h2 style="border-bottom: none">Hi</h2>
+How about a quick intro?
+</div>
+<hr>
+<aside style="background-color:gray" styles.less="">
+💡 *Get to know me*
+</aside>
 
 <!--
 **JoeCalvert/JoeCalvert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
