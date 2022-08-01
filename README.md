@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey.
+Here's a bit about me
 
 <!--
 **JoeCalvert/JoeCalvert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
