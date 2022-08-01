@@ -1,5 +1,5 @@
 ### `Time for a quick introduction?`
-I'm Joe, a Mechatronics and Robotics student from Leeds. Here's a lighting-round overview of who I am and what I do.
+Hi I'm Joe, a Mechatronics and Robotics student from Leeds. Here's a lighting-round overview of who I am and what I do.
 
 
 
