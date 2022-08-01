@@ -5,7 +5,7 @@ I'm Joe, a Mechatronics and Robotics student from Leeds. Here's a lighting-round
 - 🎓 I'm in my 3rd year of uni, and I plan on undertaking a placement year before completing my Master's
 - ⚒️ Right now, I'm a summer intern for Rolls-Royce working on VVUQ for simulations
 - 💡 Recently, I've been looking into biomaterials and their relevance to soft robotics.
-    - For my next project, I want to experiment with improving 3D printed hydrogels by reducing shrinkage
+    - For my next project, I want to experiment with improving 3D printed hydrogels by reducing shrinkage during the curing process
 
 
 
