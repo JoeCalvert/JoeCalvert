@@ -1,7 +1,7 @@
 ### `Quick intro`
 I'm Joe, a Mechatronics and Robotics student from Leeds.
 
-- 🎓 Right now, I'm in my 3rd year and I'm looking to start a placement before returning to complete my degree
+- 🎓 Right now, I'm in my 3rd year and I'm looking to complete a placement before returning to finish my degree
 
 ### `Connect with me.`
 
